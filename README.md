@@ -1,5 +1,4 @@
 # HackBio-Cancer-Interinship
-HackBio-Cancer-Internship
 
 Authors (@slack): Nourhan Saad (@Nourhan), Wale Joseph (@wale)
 
