@@ -1,6 +1,6 @@
 # HackBio-Cancer-Interinship
 
-Authors (@slack): Nourhan Saad (@Nourhan), Wale Joseph (@wale)
+Authors (@slack): Nourhan Saad (@Nourhan)
 
 Transcriptomics: Introduction
 
