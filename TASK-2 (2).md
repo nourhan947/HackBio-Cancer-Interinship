@@ -21,7 +21,6 @@ In this study, Peng et al analyzed and compared RNA-seq data from TCGA database 
 ![][image1]
 
 ![][image2]
-
 **Findings**
 
 * They identified differentially expressed (DE) genes and gene sets  
