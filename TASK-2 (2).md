@@ -16,8 +16,7 @@ This study aims to understand and characterize alterations in gene expressions a
 In this study, Peng et al analyzed and compared RNA-seq data from TCGA database containing 4043 cancer samples and 548 normal tissue samples across 12 cancer types at the gene and gene set levels.  
 ![WhatsApp Image 2024-09-08 at 1 02 23 AM](https://github.com/user-attachments/assets/b08bdc05-385b-4e60-9c4e-e9d529a7ef65)
 ![WhatsApp Image 2024-09-08 at 12 41 14 AM](https://github.com/user-attachments/assets/a85b5cae-a65b-4735-8fe5-21151bb71270)
-![WhatsApp Image 2024-09-08 at 12 41 14 AM](https://github.com/user-attachments/assets/e5266b9b-4ce6-4468-8295-99d860cb7e87)
-![WhatsApp Image 2024-09-08 at 1 02 23 AM](https://github.com/user-attachments/assets/c10c2fc3-c6b9-4cbe-93c2-6f761f3365ed)
+
 
 ![][image1]
 
